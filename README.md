@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juliaCodeGirl
+- 👋 Hi, Yuliya
 - 👀 I’m interested in Software testing.
 - 🌱 I’m currently learning Java and testing frameworks.
 
