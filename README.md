@@ -1,5 +1,5 @@
 - 👋 Hi, i'm Yuliya.
-- 👩🏼‍💻 I’m QA Engineer
+- 👩🏼‍💻 QA Engineer.
 - 🌱 I’m currently learning Java and testing frameworks.
 
 <!---
