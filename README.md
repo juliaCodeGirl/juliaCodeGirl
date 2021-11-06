@@ -1,5 +1,5 @@
-- 👋 Hi, my name is Yuliya.
-- 👀 I’m interested in Software testing.
+- 👋 Hi, i'm Yuliya.
+- 👩🏼‍💻 I’m QA Engineer
 - 🌱 I’m currently learning Java and testing frameworks.
 
 <!---
